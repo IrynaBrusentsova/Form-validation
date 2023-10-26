@@ -15,11 +15,12 @@ body {
   height: auto;
   background-color: rgb(84, 185, 228);
   margin: 0 auto;
-  padding: 15px;
+  padding: 10px;
   font-size: 12px;
 }
-h1{
-  font-size: 20px;
+h1 {
+  font-size: 18px;
+  text-align: center;
 }
 .form {
   width: 100%;
